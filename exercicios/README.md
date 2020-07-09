@@ -4,3 +4,4 @@
 ## Exercícios para conseguir executar o primeiro código
 
 - PrimeiraCompilacao
+- PrimeiraExecucao
