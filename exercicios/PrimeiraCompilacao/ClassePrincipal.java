@@ -1,2 +1,3 @@
-class ClassePrincipal {
+public class ClassePrincipal {
+
 }

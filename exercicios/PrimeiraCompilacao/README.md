@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-- Apenas criar um arquivo compilável para testar o javac.
+- Apenas criar um arquivo compilável para testar o comando javac.
 
 
 ## Requisitos
