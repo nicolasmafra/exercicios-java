@@ -20,6 +20,7 @@ Por exemplo: `ClassePrincipal`, `PrimeiroExercicio` ou `MeuCodigoJava`;
 - OPCIONAL (RECOMENDADO): A convenção do Java define que o nome do arquivo Java deve ser o mesmo que o nome da classe declarada dentro dele. 
   - OPCIONAL: Modifique sua classe para que possa ser acessada publicamente.
 
+Observação: sempre que você alterar o código-fonte é necessário compilar novamente.
 
 ## Como conferir
 
