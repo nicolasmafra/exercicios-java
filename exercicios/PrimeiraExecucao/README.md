@@ -21,6 +21,8 @@
 - Tornar a classe executável. Isto é, declarar o método main dentro da classe.
 Se não lembrar como se escreve o método main, basta tentar executar a classe sem ele que na mensagem de erro aparecerá.
 
+Observação: o que será executado é o arquivo `.class` gerado na compilação.
+Por isso, sempre que você alterar o código-fonte será necessário compilar novamente para que suas alterações tenham efeito.
 
 ## Como conferir
 
